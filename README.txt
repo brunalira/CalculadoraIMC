@@ -1,52 +1,32 @@
-# 📱 Calculadora IMC com Feedback 
+# Calculadora IMC com Feedback Positivo
 
-Aplicativo Android desenvolvido em Java que calcula o IMC (Índice de Massa Corporal) com base no peso e altura do usuário. 
-Após o cálculo, o app exibe uma mensagem motivacional de acordo com a classificação do IMC.
+Aplicativo Android feito em Java para calcular o IMC com base no peso e altura do usuário. Após o cálculo, o app mostra uma mensagem positiva de acordo com a faixa de IMC.
 
 ---
 
-## 👩‍💻 Desenvolvido por
+--Desenvolvido por
 
-**Bruna Cristina Lira Curralo**  
-RA: 24025837
+Bruna Cristina Lira Curralo
+RA: 24025837  
 Curso: Análise e Desenvolvimento de Sistemas – 3º semestre  
 Disciplina: Programação Mobile  
 Professor: Vinicius Heltai
 
 ---
 
-## 🛠️ Funcionalidades
+--Funcionalidades
 
-- Cálculo do IMC usando a fórmula: `IMC = peso / (altura * altura)`
-- Classificação nas categorias:
-  - Abaixo do peso
-  - Peso normal
-  - Sobrepeso
-  - Obesidade Grau 1
-  - Obesidade Grau 2
-  - Obesidade Grau 3
-- Mensagens motivacionais personalizadas
-- Uso de múltiplas `Activities` e troca de dados com `Intent` + `Bundle`
+- Cálculo do IMC usando a fórmula padrão
+- Mensagens personalizadas de acordo com a classificação
+- Troca de dados entre telas com `Intent` e `Bundle`
+- Interface com layout agradável e cores definidas
+- Separação dos textos e cores nos arquivos `strings.xml` e `colors.xml`
 
 ---
 
-## 🎨 Paleta de Cores Utilizada
+--Entrega
 
-| Descrição         | Código Hex |
-|-------------------|------------|
-| Verde Escuro      | #006341    |
-| Verde Claro       | #00A859    |
-| Cinza Escuro      | #4D4D4D    |
-| Cinza Claro       | #B3B3B3    |
-| Branco            | #FFFFFF    |
-
----
-
-## 📂 Arquivos Entregues
-
-- 📦 `13042025-CalculadoraIMC.zip`: Arquivo compactado do projeto completo
-- 📱 `CalculadoraIMC.apk`: APK compilado e pronto para instalação
-- 📄 `README.md`: Este arquivo com todas as informações do projeto
-
----
-
+- `CalculadoraIMC.apk`: arquivo compilado do app
+- `13042025-CalculadoraIMC.zip`: projeto completo
+- `README.txt`: este arquivo com as informações
+	
